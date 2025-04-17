@@ -1,0 +1,33 @@
+{
+  "name": "just/blade",
+  "description": "Laravel's Blade standalone templating engine for use outside of Laravel.",
+  "keywords": [
+    "laravel",
+    "blade",
+    "template",
+    "view",
+    "render"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maratib Ali Khan",
+      "homepage": "https://maratib.github.io"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "illuminate/view": "11.7.0",
+    "illuminate/config": "11.7.2"
+  },
+  "autoload": {
+        "psr-4": {
+            "Just\\Blade\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+    
+}
+
