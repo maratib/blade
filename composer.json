@@ -1,6 +1,6 @@
 {
-  "name": "just/blade",
-  "description": "Laravel's Blade standalone templating engine for use outside of Laravel.",
+  "name": "maratib/blade",
+  "description": "Just Blade standalone templating engine for use outside of Laravel.",
   "keywords": [
     "laravel",
     "blade",
