@@ -19,7 +19,7 @@
   "require": {
     "php": ">=8.0",
     "illuminate/view": "11.7.0",
-    "illuminate/config": "11.7.2"
+    "illuminate/config": "^11.44.2"
   },
   "autoload": {
         "psr-4": {

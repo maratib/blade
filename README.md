@@ -5,5 +5,5 @@
 Blade templating engine for use outside of Laravel.
 
 ```bash
-composer require just/blade
+composer require maratib/blade
 ```
