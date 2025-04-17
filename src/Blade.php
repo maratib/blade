@@ -27,7 +27,9 @@ class Blade implements FactoryContract
     private $factory;
 
     /**
+     * Container removed
      * @var BladeCompiler
+     * 
      */
     private $compiler;
 
